@@ -87,10 +87,10 @@ void traverse_directory(const char *dirname, const char *base, SS *here, int *pa
 }
  
 void fill_values(SS* here){
-    FILE *fp = fopen("/home/sumit_kk10/Desktop/Clg Studies/SEM_3/OSN/final-project-025/count.txt", "r");
+    FILE *fp = fopen("/home/sumit_kk10/Desktop/Network-File-System/count.txt", "r");
     fscanf(fp, "%d", &cnt);
     fclose(fp);
-    fp = fopen("/home/sumit_kk10/Desktop/Clg Studies/SEM_3/OSN/final-project-025/count.txt", "w"); // REPLACE THIS WITH THE ABSOULTE PATH OF THE FILE COUNT
+    fp = fopen("/home/sumit_kk10/Desktop/Network-File-System/count.txt", "w"); // REPLACE THIS WITH THE ABSOULTE PATH OF THE FILE COUNT
     fprintf(fp, "%d", cnt + 2);
     fclose(fp);
     strcpy(here->ip, NM_IP);

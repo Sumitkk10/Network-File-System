@@ -1,10 +1,24 @@
-# Network File System - team_025
+# Network File System
 
 ![](https://blog.eduonix.com/wp-content/uploads/2018/04/HDFS-Architecture.png)
 
 ### Introduction:
 
 Welcome to our team project focused on implementing a Network File System (NFS). In this endeavor, we aim to create a robust and efficient system that allows users to seamlessly interact with files and folders over a network. The NFS architecture consists of three major components: Clients, Naming Server, and Storage Servers.
+
+# Getting Started: 
+* Clone the Repository: \
+ `git clone https://github.com/<your-username>/Network-File-System.git`\
+`cd Network-File-System`
+
+* Compile and Run: \
+`make run` \
+This will compile the programs and open three separate terminal tabs, each running one of the compiled programs. If you want to make new clients or servers, you can run these files from different terminals. \
+The `clean` target is included to remove the compiled binaries when you run `make clean`.
+
+### Note: 
+
+replace line **90** and **93** in **storage_server.c** with the absoulte path of the file **count.txt**
 
 ### Components:
 
@@ -61,12 +75,8 @@ or
 ```
 
 
-**Getting additional information:** Access supplementary information about specific files, including details such as file size, access rights, timestamps, and other metadata.
-
-To run this NFS, run the following in three different terminals:
-
-```gcc naming_server.c LRU.c hash.c -o a```
-
-```gcc <absolute path of storage server.c> -o b```
-
-```gcc client.c -o c```
+**Getting additional information:** Access supplementary information about specific files, including details such as file size and access rights.
+```
+    GET_INFO
+    <file_path>
+```
