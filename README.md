@@ -80,3 +80,6 @@ or
     GET_INFO
     <file_path>
 ```
+
+### Other Contributors: 
+- [Manasa Kalaimalai](https://github.com/manasakalaimalai/)
