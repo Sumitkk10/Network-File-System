@@ -1,0 +1,412 @@
+[Wed Nov 22 02:21:38 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 02:21:47 2023
+] [ack] [sucess] CREATE (Port: 5675, IP: 127.0.0.1)
+[Wed Nov 22 02:21:47 2023
+] [Operation] [success] CREATE (Port: 5675, IP: 127.0.0.1)
+[Wed Nov 22 02:21:51 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 02:21:51 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 02:22:00 2023
+] [ack] [failure] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 02:22:05 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 02:22:05 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 02:22:15 2023
+] [ack] [sucess] CREATE (Port: 5675, IP: 127.0.0.1)
+[Wed Nov 22 02:22:15 2023
+] [Operation] [success] DELETE (Port: 5675, IP: 127.0.0.1)
+[Wed Nov 22 02:22:19 2023
+] [ack] [failure] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:06:17 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 03:07:03 2023
+] [ack] [failure] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:07:15 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:07:15 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:09:23 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 03:09:31 2023
+] [ack] [failure] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:09:37 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:09:37 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:00 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:13 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:13 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:27 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:27 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:34 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:34 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:56 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:15:56 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:16:03 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:17:55 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 03:18:18 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:18:18 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:18:47 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 03:18:56 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:18:56 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:19:06 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:19:06 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:19:15 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:19:15 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:19:26 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:19:26 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:19:45 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:20:05 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:20:38 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:20:38 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:38:33 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 03:39:33 2023
+] [ack] [sucess] CREATE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:40:31 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 03:40:39 2023
+] [ack] [sucess] CREATE (Port: 4000, IP: 127.0.0.1)
+[Wed Nov 22 03:41:26 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Wed Nov 22 03:41:41 2023
+] [ack] [sucess] CREATE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 05:52:47 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 05:53:52 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 05:53:52 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 05:54:51 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 05:54:51 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 05:54:59 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 05:54:59 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:06:43 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 12:07:10 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 12:07:46 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:07:46 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:08:36 2023
+] [ack] [sucess] CREATE (Port: 5895, IP: 127.0.0.1)
+[Sat Dec  2 12:08:36 2023
+] [Operation] [success] CREATE (Port: 5895, IP: 127.0.0.1)
+[Sat Dec  2 12:09:01 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:09:01 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:09:14 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:09:14 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:09:23 2023
+] [ack] [sucess] CREATE (Port: 5895, IP: 127.0.0.1)
+[Sat Dec  2 12:09:23 2023
+] [Operation] [success] DELETE (Port: 5895, IP: 127.0.0.1)
+[Sat Dec  2 12:12:40 2023
+] [ack] [sucess] CREATE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:15:31 2023
+] [ack] [failure] COPY (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:16:57 2023
+] [ack] [sucess] CREATE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:19:14 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:19:14 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:19:30 2023
+] [ack] [failure] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:19:48 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:19:48 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:20:01 2023
+] [ack] [failure] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:20:23 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:20:23 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:47:50 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 12:47:59 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 12:48:12 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:48:12 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:50:06 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 12:50:15 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 12:50:15 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:14:26 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:15:10 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:15:10 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:16:36 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:16:44 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:16:44 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:17:59 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:18:07 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:18:07 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:18:25 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:18:33 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:18:33 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:20:24 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:20:45 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:20:45 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:20:49 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:20:49 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:22:18 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:22:36 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:22:36 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:23:39 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:23:58 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:23:58 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:25:13 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:25:34 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:25:34 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:27:53 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:29:41 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:30:02 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:30:02 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:31:45 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:31:52 2023
+] [ack] [failure] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:32:12 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:32:12 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:32:23 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:32:23 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:34:13 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:34:27 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:34:27 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:34:39 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 15:35:21 2023
+] [ack] [failure] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:35:51 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:35:51 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:35:51 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:35:51 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:36:31 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:36:31 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:36:31 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:36:31 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:36:47 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:36:47 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:36:54 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:37:08 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:37:08 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:41:25 2023
+] [ack] [sucess] CREATE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:56:12 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 15:56:12 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 16:52:52 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 16:53:32 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 16:54:10 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 16:54:29 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 16:54:51 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 16:55:12 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 16:56:55 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 16:57:27 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 16:57:27 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 16:58:07 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 16:58:07 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 16:58:22 2023
+] [ack] [failure] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 16:59:11 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 16:59:55 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 16:59:55 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:00:01 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:00:01 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:00:10 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:00:10 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:00:25 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:00:25 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:00:47 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:00:47 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:01:00 2023
+] [ack] [failure] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:01:33 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:01:33 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:01:51 2023
+] [New Server] [success] new storage server got initialized (Port: 5000, IP: 127.0.0.1)
+[Sat Dec  2 17:02:01 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:02:01 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:02:25 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:02:25 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:03:57 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:03:57 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:04:06 2023
+] [ack] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:04:06 2023
+] [Path back to client] [success] GET_INFO (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:04:45 2023
+] [ack] [sucess] CREATE (Port: 5929, IP: 127.0.0.1)
+[Sat Dec  2 17:04:45 2023
+] [Operation] [success] CREATE (Port: 5929, IP: 127.0.0.1)
+[Sat Dec  2 17:05:05 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:05:05 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:05:15 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:05:15 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:05:37 2023
+] [ack] [sucess] CREATE (Port: 5929, IP: 127.0.0.1)
+[Sat Dec  2 17:05:37 2023
+] [Operation] [success] CREATE (Port: 5929, IP: 127.0.0.1)
+[Sat Dec  2 17:05:57 2023
+] [ack] [sucess] CREATE (Port: 5929, IP: 127.0.0.1)
+[Sat Dec  2 17:05:57 2023
+] [Operation] [success] DELETE (Port: 5929, IP: 127.0.0.1)
+[Sat Dec  2 17:06:05 2023
+] [ack] [sucess] CREATE (Port: 5929, IP: 127.0.0.1)
+[Sat Dec  2 17:06:05 2023
+] [Operation] [success] DELETE (Port: 5929, IP: 127.0.0.1)
+[Sat Dec  2 17:09:06 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:06 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:07 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:07 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:08 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:08 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:16 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:16 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:34 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:34 2023
+] [Path back to client] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:09:45 2023
+] [ack] [success] WRITE (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:10:50 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:11:01 2023
+] [ack] [success] READ (Port: 4000, IP: 127.0.0.1)
+[Sat Dec  2 17:11:01 2023
+] [Path back to client] [success] READ (Port: 4000, IP: 127.0.0.1)
